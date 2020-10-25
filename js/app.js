@@ -1,0 +1,1 @@
+jQuery(document).ready(function ($) {var screenwidth = $( window ).width();	if (screenwidth < 780  ){		  	$('.tshirts li').css('float','none');			};    if (screenwidth > 780  ){		  	$('.tshirts li').css('float','left');			};    });
