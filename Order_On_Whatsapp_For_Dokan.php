@@ -3,17 +3,11 @@
 /*
 
 Plugin Name: Woocommerce Order On Whatsapp for Dokan
-
-Plugin URI: https://codecanyon.net/user/gordonweb
-
+Plugin URI: 
 Description: Increase sales by letting customers contact Vendors via Whatsapp.
-
 Version: 1.0
-
 Author: Gordon
-
-Author URI: https://codecanyon.net/user/gordonweb
-
+Author URI: 
 License: Commercial License
 
 */
