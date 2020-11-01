@@ -1,18 +1,5 @@
 <?php
 
-/*
-
-Plugin Name: Woocommerce Order On Whatsapp for Dokan
-Plugin URI: 
-Description: Increase sales by letting customers contact Vendors via Whatsapp.
-Version: 1.0
-Author: Gordon
-Author URI: 
-License: Commercial License
-
-*/
-
-
 // create custom plugin settings menu
 add_action('admin_menu', 'order_on_whatsapp_submenu');
 
